@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PageStyles>
+    <Page Width="800" Height="800" Padding="20px" PageSize="A4" PageType="title" PaddingLeft="3.5cm" PaddingRight="2.5cm" PaddingTop="2.5cm" PaddingBottom="2.5cm">
+        <Frame X="-58px" Y="-46px" Width="673px" Height="1010px" Flow="body" Right="-47px" Bottom="-29px" />
+    </Page>
+</PageStyles>
